@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 1.3.0 (2024-01-03)
+
+- :tada: redesign BPD handling: interface IBpdStore supports now use of different BPD storeand BPD version is now retrieved from cache and send when calling Synchronization
+- :tada: *change* Use Microsoft.Extensions.Logging in FinTS ([#34](https://github.com/libfintx/libfintx/issues/34)
+- :rocket: add FinTsVersion enumeration replacing class libfintx.FinTs.Version.HBCI
+- :rocket: avoiding duplicated synchronization calls by keepting the client class active as long as the connection details do not change
+- :rocket: *change* refactor message parsing ([#35](https://github.com/libfintx/libfintx/pull/35))
+
 ## Version 1.2.0 (2024-07-25)
 
 - :tada: add strong name for NuGet projects ([#3](https://github.com/libfintx/libfintx/issues/3))
