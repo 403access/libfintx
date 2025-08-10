@@ -320,7 +320,7 @@
 20030000;HYVEDEMM300;UniCredit Bank - HypoVereinsbank AG;300;https://hbci-01.hypovereinsbank.de/bank/hbci
 20030000;HYVEDEMM300;UniCredit Bank - HypoVereinsbank AG;300;https://hbci-01.hypovereinsbank.de/bank/hbci
 20030300;CHDBDEHHXXX;Donner & Reuschel Aktiengesellschaft;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
-20030400;MCRDDEHHXXX;Marcard,Stein & Co GmbH;300;https://online-banking.marcard.de/fints/
+20030400;MCRDDEHHXXX;MarcardStein & Co GmbH;300;https://online-banking.marcard.de/fints/
 20030600;SYBKDE22HAM;Sydbank A/S;300;https://www.bv-activebanking.de/hbciTunnel/hbciTransfer.jsp
 20030700;MEFIDEMM200;Merck Finck & Co.;300;https://www.bv-activebanking.de/hbciTunnel/hbciTransfer.jsp
 20041111;COBADEHDXXX;comdirect bank AG;;https://fints.comdirect.de/fints
@@ -405,7 +405,7 @@
 21092023;GENODEF1EFO;Eckernförder Bank eG Volksbank-Raiffeisenbank;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 21270020;DEUTDEHH212;Deutsche Bank;300;https://fints.deutsche-bank.de/
 21270024;DEUTDEDB212;Deutsche Bank Privat und Geschäftskunden;300;https://fints.deutsche-bank.de/
-21290016;GENODEF1NMS;VB RB eG, Neumünster;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
+21290016;GENODEF1NMS;VB RB eG Neumünster;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 21290016;GENODEF1NMS;Volksbank Neumünster eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 21352240;NOLADE21HOL;Sparkasse Holstein;300;https://banking-sh2.s-fints-pt-sh.de/fints30
 21390008;GENODEF1NSH;Volksbank Ostholstein Nord eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
@@ -423,7 +423,7 @@
 21690020;GENODEF1SLW;Volksbank Schleswig eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 21750000;NOLADE21NOS;Nord-Ostsee Sparkasse;300;https://banking-sh1.s-fints-pt-sh.de/fints30
 21762550;GENODEF1HUM;Volksbank-Raiffeisenbank Husum eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
-21763542;GENODEF1BDS;VR Bank eG, Niebüll;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
+21763542;GENODEF1BDS;VR Bank eG Niebüll;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 21770011;DEUTDEHH217;Deutsche Bank;300;https://fints.deutsche-bank.de/
 21770024;DEUTDEDB217;Deutsche Bank Privat und Geschäftskunden;300;https://fints.deutsche-bank.de/
 21791805;GENODEF1SYL;Volks- und Raiffeisenbank Sylt eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
@@ -444,7 +444,7 @@
 23051030;NOLADE21SHO;Keine FinTS-Unterstützung;;
 23052750;NOLADE21RZB;Kreissparkasse Herzogtum Lauenburg;300;https://banking-sh1.s-fints-pt-sh.de/fints30
 23061220;GENODEF1LZN;Raiffeisenbank Leezen eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
-23061220;GENODEF1LZN;RB eG, Leezen;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
+23061220;GENODEF1LZN;RB eG Leezen;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 23062124;GENODEF1BAR;Raiffeisenbank Bargteheide eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 23063129;GENODEF1RLB;RB eG Lauenburg;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 23064107;GENODEF1BCH;Raiffeisenbank Hagenow eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
@@ -1080,7 +1080,7 @@
 37069405;GENODED1KAA;Raiffeisenbank Kaarst eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 37069412;GENODED1HRB;Volksbank Heinsberg eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 37069412;GENODED1HRB;RB eG Heinsberg;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
-37069412;GENODED1HRB;RB eG, Heinsberg;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
+37069412;GENODED1HRB;RB eG Heinsberg;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 37069427;GENODED1DHK;Voba Dünnwald-Holweide eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 37069520;GENODED1RST;VR Bank Rhein-Sieg eG.;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 37069627;GENODED1RBC;RB Rheinbach-Voreifel eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
@@ -2144,7 +2144,7 @@
 57351030;MALADE51AKI;Sparkasse Westerwald-Sieg;300;https://banking-rp1.s-fints-pt-rp.de/fints30
 57361476;GENODED1GBS;Volksbank Gebhardshain eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
 57391200;GENODE51DAA;Volksbank Daaden;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
-57391500;GENODE51HAM;Volksbank Hamm, Sieg;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
+57391500;GENODE51HAM;Volksbank Hamm Sieg;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
 57391800;GENODE51WW1;Westerwald Bank;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
 57450120;MALADE51NWD;Sparkasse Neuwied ;300;https://banking-rp1.s-fints-pt-rp.de/fints30
 57460117;GENODED1NWD;VR-Bank Neuwied-Linz eG;300;https://hbci-pintan.gad.de/cgi-bin/hbciservlet
@@ -2568,7 +2568,7 @@
 65070084;DEUTDESS650;Deutsche Bank;300;https://fints.deutsche-bank.de/
 65070084;DEUTDESS650;Deutsche Bank;300;https://fints.deutsche-bank.de/
 65090100;ULMVDE66XXX;Volksbank Ulm-Biberach;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
-65091040;GENODES1LEU;Leutkircher Bank, Raiffeisen- und Volksbank eG;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
+65091040;GENODES1LEU;Leutkircher Bank Raiffeisen- und Volksbank eG;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
 65091300;GENODES1BWB;Bad Waldseer Bank;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
 65092200;GENODES1VAH;Volksbank Altshausen;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
 65093020;GENODES1SLG;Volksbank Bad Saulgau;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
@@ -3389,7 +3389,7 @@
 75320075;HYVEDEMM454;UniCredit Bank - HypoVereinsbank AG;300;https://hbci-01.hypovereinsbank.de/bank/hbci
 75340090;COBADEFFXXX;Commerzbank;300;
 75350000;BYLADEM1WEN;Sparkasse Oberpfalz-Nord;300;https://banking-by4.s-fints-pt-by.de/fints30
-75351960;BYLADEM1ESB;Vereinigte Sparkasse Eschenbach, Neustadt, Vohenstrauß;300;https://banking-by4.s-fints-pt-by.de/fints30
+75351960;BYLADEM1ESB;Vereinigte Sparkasse Eschenbach Neustadt Vohenstrauß;300;https://banking-by4.s-fints-pt-by.de/fints30
 75362039;GENODEF1FLS;Raiffeisenbank;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
 75363189;GENODEF1NEW;Raiffeisenbank Neustadt-Vohenstrauß;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
 75390000;GENODEF1WEV;Volksbank Nordoberpfalz eG;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
@@ -3888,7 +3888,7 @@
 85050300;OSDDDE81XXX;Ostsächsische Sparkasse Dresden;300;https://banking-sn5.s-fints-pt-sn.de/fints30
 85055000;SOLADES1MEI;Sparkasse Meißen;300;https://banking-sn5.s-fints-pt-sn.de/fints30
 85060000;GENODEF1PR2;Volksbank Pirna;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
-85065028;GENODEF1SEB;Raiffeisenbank Neustadt, Sachs;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
+85065028;GENODEF1SEB;Raiffeisenbank Neustadt Sachs;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
 85090000;GENODEF1DRS;Dresdner Volksbank Raiffeisenbank eG;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
 85094984;GENODEF1RIE;Volksbank Riesa;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
 85095004;GENODEF1MEI;Volksbank Raiffeisenbank Meißen Großenhain;300;https://hbci11.fiducia.de/cgi-bin/hbciservlet
